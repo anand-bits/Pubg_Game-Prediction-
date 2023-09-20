@@ -1,6 +1,7 @@
 # PUBG Game Prediction with CatBoost
 
-![https://media.giphy.com/media/CPKPjSlBhiqbhOZoOR/giphy.gif] <!-- Replace with a relevant image if available -->
+![PUBG Game](https://media.giphy.com/media/CPKPjSlBhiqbhOZoOR/giphy.gif)
+<!-- Replace with a relevant image if available -->
 
 ## Overview
 
